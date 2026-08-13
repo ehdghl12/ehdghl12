@@ -2,6 +2,11 @@
 * Konyang University Medical Campus
 * Department of Artificial Intelligence
 * junior
+## Club
+* 건양대학교 인공지능학과 - 5대 학생회 MAI
+* 건양대학교 인공지능학과 - LYNQ(링크) 동아리
+* 건양대학교 인공지능학과 - MAINIX(마이닉스) 동아리
+* 건양대학교 SW중심대학사업단 - AWS Deepracer 동아리
 
 # Extracurricular
 * 2022.07.01. ~2023.01.31. 건양대학교 LINC 3.0 사업단 Lab-corps - EEG신호를 활용한 감정인식분류 인공지능 모델에 관한 연구
@@ -25,10 +30,7 @@
 * 2025.12.17. 건양대학교 SW중심대학사업단 - KYU VIBE-UP 건양대학교 창업아이디어 경진대회 - 우수상 (2위, AI 기반 질병 예측 플랫폼)
 * 2026.07.22. 건양대학교 RISE 사업단 - X-ray 영상 AI 멀티라벨 분류 해커톤 - 우수상 (2위)
 
-# Club
-* 건양대학교 인공지능학과 - LYNQ(링크) 동아리
-* 건양대학교 인공지능학과 - MAINIX(마이닉스) 동아리
-* 건양대학교 SW중심대학사업단 - AWS Deepracer 동아리
+
 
 
 
