@@ -2,7 +2,7 @@
 * Konyang University Medical Campus
 * Department of Artificial Intelligence
 * junior
-## Club
+### Club
 * 건양대학교 인공지능학과 - 5대 학생회 MAI
 * 건양대학교 인공지능학과 - LYNQ(링크) 동아리
 * 건양대학교 인공지능학과 - MAINIX(마이닉스) 동아리
