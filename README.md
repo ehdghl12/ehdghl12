@@ -3,7 +3,7 @@
 건양대학교 인공지능학과 3학년 재학
 
 
-2022.07.01. ~2023.01.31. 건양대학교 LINC 3.0 사업단 Lab-corps - A Study on the Artificial Intelligence Model of Emotional Recognition Classification Using EEG Signals
+2022.07.01. ~2023.01.31. 건양대학교 LINC 3.0 사업단 Lab-corps - EEG신호를 활용한 감정인식분류 인공지능 모델에 관한 연구
 
 2025.04.28. ~2025.04.30. 건양대학교 SW중심대학사업단 - AWS DEEPRACER AI 자율주행 프로그램
 
