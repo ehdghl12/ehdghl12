@@ -11,7 +11,7 @@
 
 
 
-# Extracurricular
+# Experience
 ### 2022
 * `07.01 - 01.31` 건양대학교 LINC 3.0 사업단 Lab-corps - EEG신호를 활용한 감정인식분류 인공지능 모델에 관한 연구 (CEIC 2022)
 ### 2025
