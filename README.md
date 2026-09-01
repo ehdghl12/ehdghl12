@@ -1,6 +1,9 @@
-# Donghoe Heo
+# Donghoé Heo
+Konyang University, Medical Campus,
+<br />
+Department of Artificial Intelligence,
+<br />
 Junior
-Department of Artificial Intelligence, Konyang University
 
 ### ♣️Club
 * 5대 학생회 MAI, 건양대학교 인공지능학과
