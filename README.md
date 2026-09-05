@@ -34,7 +34,7 @@
 
 ***
 
-### Currently in progress
+### 🎯Currently in progress
 * *2026 DYQ, 건양대학교 간호대학*
 * *mindlab - Research in Neuroscience, mindlab*
 
