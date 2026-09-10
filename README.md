@@ -8,6 +8,7 @@
 <!-- Eng -->
 ### ♣️Club
 * 5th Student Council MAI, 건양대학교 인공지능학과
+* mindlab, 건양대학교 인공지능학과
 * LYNQ, 건양대학교 인공지능학과
 * MAINIX, 건양대학교 인공지능학과
 * AWS DeepRacer Club, 건양대학교 SW중심대학사업단
