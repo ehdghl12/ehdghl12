@@ -31,12 +31,14 @@
 * `06.29 - 06.30` AI Agent Action Decision, 건양대학교 SW중심대학사업단
 * `07.01 - 07.15` 2026 SW-Centered University Digital Competition, 건양대학교 SW중심대학사업단
 * `07.20 - 07.22` X-ray Image AI Multi-Label Classification Hackathon, 건양대학교 RISE사업단
-
+* `09.11 - 09.12` AI 창업 캠프, 건양대학교 SW중심대학사업단
+  
 ***
 
 ### 🎯Currently in progress
 * *2026 DYQ, 건양대학교 간호대학*
 * *mindlab - Research in Neuroscience, mindlab*
+* *2026 AI·SW중심대학 우수작품 경진대회, 건양대학교 SW중심대학사업단*
 
 ***
 
@@ -103,4 +105,4 @@
 
 <br />
 <br />
-last updated : Sep 1, 2026
+last updated : Sep 10, 2026
