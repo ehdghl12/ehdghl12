@@ -1,6 +1,6 @@
 ### **Donghoé Heo**
-* Konyang University, Medical Campus,
-* Department of Artificial Intelligence,
+* Konyang University, Medical Campus
+* Department of Artificial Intelligence
 * Junior
 
 ***
