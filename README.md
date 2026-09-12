@@ -17,7 +17,7 @@
 
 ### ⛵️Experience
 ### 2022
-* `07.01 - 01.31` Research on an Artificial Intelligence Model for Emotion Recognition and Classification Using EEG Signals (CEIC 2022), 건양대학교 LINC 3.0 사업단 Lab-corps
+* `07.01 - 10.31` Research on an Artificial Intelligence Model for Emotion Recognition and Classification Using EEG Signals (CEIC 2022), 건양대학교 LINC 3.0 사업단 Lab-corps
 ### 2025
 * `04.28 - 04.30` AWS DeepRacer AI Autonomous Driving Program, 건양대학교 SW중심대학사업단
 * `06.30 - 08.22` Business Administration Work Experience Program (Department of Medical Information), 건양대학교병원
@@ -71,7 +71,7 @@
 
 ### ⛵️Experience
 ### 2022
-* `07.01 - 01.31` EEG신호를 활용한 감정인식분류 인공지능 모델에 관한 연구 (CEIC 2022), 건양대학교 LINC 3.0 사업단 Lab-corps
+* `07.01 - 10.31` EEG신호를 활용한 감정인식분류 인공지능 모델에 관한 연구 (CEIC 2022), 건양대학교 LINC 3.0 사업단 Lab-corps
 ### 2025
 * `04.28 - 04.30` AWS DEEPRACER AI 자율주행 프로그램, 건양대학교 SW중심대학사업단
 * `06.30 - 08.22` 경영사무 일경험 프로그램(정보의학교실), 건양대학교병원
