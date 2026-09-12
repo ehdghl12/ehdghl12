@@ -38,8 +38,9 @@
 
 ### 🎯Currently in progress
 * *2026 DYQ, 건양대학교 간호대학*
-* *mindlab - Research in Neuroscience, mindlab*
-* *2026 AI·SW중심대학 우수작품 경진대회*
+* *Research in Brain decoding, mindlab*
+* *2026 AI·SW중심대학 우수작품 경진대회, AI·SW중심대학협의회*
+* *국방AI인재양성(전 장병 맞춤형 온라인 AI 교육), KIST*
 
 ***
 
