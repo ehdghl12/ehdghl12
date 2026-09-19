@@ -48,6 +48,7 @@
 * `2025.04.30` AWS DeepRacer AI Autonomous Driving Program - 온라인전 3위, (주)에이아이캐슬
 * `2025.12.17` KYU VIBE-UP Startup Idea Competition - 우수상, 건양대학교 SW중심대학사업단
 * `2026.07.22` X-ray Image AI Multi-Label Classification Hackathon - 우수상, 건양대학교 RISE사업단
+* `2026.09.19` AI 창업캠프 - 3위, 건양대학교 SW중심대학사업단
 
 ***
 
