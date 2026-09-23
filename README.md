@@ -32,7 +32,7 @@
 * `06.29 - 06.30` AI Agent Action Decision, 건양대학교 SW중심대학사업단
 * `07.01 - 07.15` 2026 SW-Centered University Digital Competition, 건양대학교 SW중심대학사업단
 * `07.20 - 07.22` X-ray Image AI Multi-Label Classification Hackathon, 건양대학교 RISE사업단
-* `09.01 - NOW`   국방AI인재양성(전 장병 맞춤형 온라인 AI 교육), KAIST
+* `09.01 - 12.31` 국방AI인재양성(전 장병 맞춤형 온라인 AI 교육), KAIST
 * `09.18 - 09.19` AI 창업 캠프, 건양대학교 SW중심대학사업단
   
 ***
