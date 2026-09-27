@@ -58,8 +58,6 @@
 * AWS
 * Adobe Pr, Ae, Ps
 
-Last Updated : Sep 28, 2026
-
 
 <!-- korean
 ### ♣️Club
@@ -113,4 +111,4 @@ Last Updated : Sep 28, 2026
 
 <br />
 <br />
-last updated : Sep 10, 2026
+last updated : Sep 28, 2026
