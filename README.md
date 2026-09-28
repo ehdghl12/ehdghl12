@@ -5,67 +5,13 @@
 
 ***
 
-<!-- Eng -->
 ### ♣️Club
-* 5th Student Council MAI, 건양대학교 인공지능학과
-* mindlab, 건양대학교 인공지능학과
+* 제5대 학생회 MAI, 건양대학교 인공지능학과
+* MIND Lab, 건양대학교 인공지능학과
 * LYNQ, 건양대학교 인공지능학과
 * MAINIX, 건양대학교 인공지능학과
 * AWS DeepRacer, 건양대학교 SW중심대학사업단
   
-***
-
-### ⛵️Experience
-### 2022
-* `07.01 - 10.31` Research on an Artificial Intelligence Model for Emotion Recognition and Classification Using EEG Signals (CEIC 2022), 건양대학교 LINC 3.0 사업단 Lab-corps
-### 2025
-* `04.28 - 04.30` AWS DeepRacer AI Autonomous Driving Program, 건양대학교 SW중심대학사업단
-* `06.30 - 08.22` Business Administration Work Experience Program (Department of Medical Information), 건양대학교병원
-* `08.01 - 11.31` Data Collection and Preprocessing for AI Model Performance Testing of Intelligent Leak Detection Solution (LeakMaster 7.0) and Overseas Leak Detection Solutions, 건양대학교 산학협력단
-* `11.21 - 11.21` 2025 Medical RISE Industry-Academia-Research-Hospital Collaboration Fair, 건양대학교 산학협력단
-* `12.16 - 12.17` KYU VIBE-UP Startup Idea Competition, 건양대학교 SW중심대학사업단
-* `12.23 - 12.00` Konyang University NAVER CLOUD Academy 3rd Cohort, NAVER CLOUD
-### 2026
-* `02.09 - 02.10` BLS Provider (2nd) Training & CPR Competition, 건양대학교 RISE사업단
-* `04.27 - 04.29` AI Agent, 건양대학교 SW중심대학사업단
-* `06.03 - 06.05` 2026 ILRC Logistics Robot Competition (Mobile Robotics Category), 건양대학교 SW중심대학사업단
-* `06.29 - 06.30` AI Agent Action Decision, 건양대학교 SW중심대학사업단
-* `07.01 - 07.15` 2026 SW-Centered University Digital Competition, 건양대학교 SW중심대학사업단
-* `07.20 - 07.22` X-ray Image AI Multi-Label Classification Hackathon, 건양대학교 RISE사업단
-* `09.01 - 12.31` 국방 AI 인재양성 사업(전 장병 맞춤형 온라인 AI 교육 - 연구 보조), KAIST
-* `09.18 - 09.19` AI 창업 캠프, 건양대학교 SW중심대학사업단
-  
-***
-
-### 🎯Currently in progress
-* *2026 DYQ, 건양대학교 간호대학*
-* *Research in Brain decoding, mindlab*
-* *2026 AI·SW중심대학 우수작품 경진대회, AI·SW중심대학협의회*
-
-***
-
-### 🏆Award
-* `2025.04.30` AWS DeepRacer AI Autonomous Driving Program - 온라인전 3위, (주)에이아이캐슬
-* `2025.12.17` KYU VIBE-UP Startup Idea Competition - 우수상, 건양대학교 SW중심대학사업단
-* `2026.07.22` X-ray Image AI Multi-Label Classification Hackathon - 우수상, 건양대학교 RISE사업단
-* `2026.09.19` AI 창업캠프 - 3위, 건양대학교 SW중심대학사업단
-
-***
-
-### 🎮Tech Stacks
-* python, PyTorch
-* C++, Java, Swift
-* AWS
-* Adobe Pr, Ae, Ps
-
-
-<!-- korean
-### ♣️Club
-* 5대 학생회 MAI, 건양대학교 인공지능학과
-* LYNQ(링크) 동아리, 건양대학교 인공지능학과
-* MAINIX(마이닉스) 동아리, 건양대학교 인공지능학과
-* AWS DeepRacer 동아리, 건양대학교 SW중심대학사업단
-
 ***
 
 ### ⛵️Experience
@@ -85,12 +31,14 @@
 * `06.29 - 06.30` AI Agent Action Decision, 건양대학교 SW중심대학사업단
 * `07.01 - 07.15` 2026 SW중심대학 디지털경진대회, 건양대학교 SW중심대학사업단
 * `07.20 - 07.22` X-ray 영상 AI 멀티라벨 분류 해커톤, 건양대학교 RISE사업단
-
+* `09.01 - 12.31` 국방 AI 인재양성 사업(전 장병 맞춤형 온라인 AI 교육 - 연구 보조), KAIST
+* `09.18 - 09.19` AI 창업 캠프, 건양대학교 SW중심대학사업단
+  
 ***
 
-### Currently in progress
-* 건양대학교 간호대학 - 2026 DYQ (투고 진행중)
-* mindlab - Research related to neuroscience
+### 🎯Currently in progress
+* *2026 DYQ, 건양대학교 간호대학*
+* *2026 AI·SW중심대학 우수작품 경진대회, AI·SW중심대학협의회*
 
 ***
 
@@ -98,15 +46,15 @@
 * `2025.04.30` AWS DEEPRACER AI 자율주행 프로그램 - 온라인전 3위, (주)에이아이캐슬
 * `2025.12.17` KYU VIBE-UP 건양대학교 창업아이디어 경진대회 - 우수상, 건양대학교 SW중심대학사업단
 * `2026.07.22` X-ray 영상 AI 멀티라벨 분류 해커톤 - 우수상, 건양대학교 RISE사업단
--->
+* `2026.09.19` AI 창업캠프 - 3위, 건양대학교 SW중심대학사업단
 
+***
 
-
-
-
-
-
-
+### 🎮Tech Stacks
+* python, PyTorch
+* C++, Java, Swift
+* AWS
+* Adobe Pr, Ae, Ps
 
 
 <br />
