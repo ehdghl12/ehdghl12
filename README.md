@@ -53,7 +53,7 @@
 ### 🎮Tech Stacks
 * python, PyTorch
 * C++, Java, Swift
-* AWS
+* AWS, NAVERCLOUD
 * Adobe Pr, Ae, Ps
 
 
