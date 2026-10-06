@@ -6,8 +6,8 @@
 ***
 
 ### ♣️Club
-* 제5대 학생회 MAI, 건양대학교 인공지능학과
 * MIND Lab, 건양대학교 인공지능학과
+* 제5대 학생회 MAI, 건양대학교 인공지능학과
 * LYNQ, 건양대학교 인공지능학과
 * MAINIX, 건양대학교 인공지능학과
 * AWS DeepRacer, 건양대학교 SW중심대학사업단
@@ -39,6 +39,7 @@
 ### 🎯Currently in progress
 * *2026 DYQ, 건양대학교 간호대학*
 * *2026 AI·SW중심대학 우수작품 경진대회, AI·SW중심대학협의회*
+* *2026 Discover the World - Kyushu Sangyo University, 건양대학교 SW중심대학사업단*
 
 ***
 
@@ -59,4 +60,4 @@
 
 <br />
 <br />
-last updated : Sep 28, 2026
+last updated : Oct 7, 2026
