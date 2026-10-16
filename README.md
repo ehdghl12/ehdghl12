@@ -33,13 +33,13 @@
 * `07.20 - 07.22` X-ray 영상 AI 멀티라벨 분류 해커톤, 건양대학교 RISE사업단
 * `09.01 - 12.31` 국방 AI 인재양성 사업(전 장병 맞춤형 온라인 AI 교육 - 연구 보조), KAIST
 * `09.18 - 09.19` AI 창업 캠프, 건양대학교 SW중심대학사업단
+* `10-17 - 10.20` 2026 Discover the World - Kyushu Sangyo University, 건양대학교 SW중심대학사업단*
   
 ***
 
 ### 🎯Currently in progress
 * *2026 DYQ, 건양대학교 간호대학*
 * *2026 AI·SW중심대학 우수작품 경진대회, AI·SW중심대학협의회*
-* *2026 Discover the World - Kyushu Sangyo University, 건양대학교 SW중심대학사업단*
 
 ***
 
