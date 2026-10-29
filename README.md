@@ -41,6 +41,7 @@
 * *2026 DYQ, 건양대학교 간호대학*
 * *2026 AI·SW중심대학 우수작품 경진대회, AI·SW중심대학협의회*
 * *`10.30 - 11.02` 2026 Discover the World - Kyushu Sangyo University, 건양대학교 SW중심대학사업단*
+* *EEG/EMG Foundation Challenge 2026*
 
 ***
 
