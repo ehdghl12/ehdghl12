@@ -33,23 +33,23 @@
 * `07.20 - 07.22` X-ray 영상 AI 멀티라벨 분류 해커톤, 건양대학교 RISE사업단
 * `09.01 - 12.31` 국방 AI 인재양성 사업(전 장병 맞춤형 온라인 AI 교육 - 연구 보조), KAIST
 * `09.18 - 09.19` AI 창업 캠프, 건양대학교 SW중심대학사업단
-* `10-17 - 10.20` 2026 Discover the World - Kyushu Sangyo University, 건양대학교 SW중심대학사업단
+* `10-17 - 11.02` 2026 Discover the World - Kyushu Sangyo University, 건양대학교 SW중심대학사업단
   
 ***
 
 ### 🎯Currently in progress
 * *2026 DYQ, 건양대학교 간호대학*
 * *2026 AI·SW중심대학 우수작품 경진대회, AI·SW중심대학협의회*
-* *`10.30 - 11.02` 2026 Discover the World - Kyushu Sangyo University, 건양대학교 SW중심대학사업단*
 * *EEG/EMG Foundation Challenge 2026*
 
 ***
 
 ### 🏆Award
 * `2025.04.30` AWS DEEPRACER AI 자율주행 프로그램 - 온라인전 3위, (주)에이아이캐슬
-* `2025.12.17` KYU VIBE-UP 건양대학교 창업아이디어 경진대회 - 우수상, 건양대학교 SW중심대학사업단
-* `2026.07.22` X-ray 영상 AI 멀티라벨 분류 해커톤 - 우수상, 건양대학교 RISE사업단
+* `2025.12.17` KYU VIBE-UP 건양대학교 창업아이디어 경진대회 - 우수상(2nd), 건양대학교 SW중심대학사업단
+* `2026.07.22` X-ray 영상 AI 멀티라벨 분류 해커톤 - 우수상(2nd), 건양대학교 RISE사업단
 * `2026.09.19` AI 창업캠프 - 3위, 건양대학교 SW중심대학사업단
+* `2026.11.02` 2026 Discover the World - 대상(1st) - Kyushu Sangyo University, 건양대학교 SW중심대학사업단
 
 ***
 
@@ -62,4 +62,4 @@
 
 <br />
 <br />
-last updated : Oct 7, 2026
+last updated : Nov 2, 2026
