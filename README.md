@@ -39,7 +39,6 @@
 ***
 
 ### 🎯Currently in progress
-* *2026 DYQ, 건양대학교 간호대학*
 * *2026 AI·SW중심대학 우수작품 경진대회, AI·SW중심대학협의회*
 * *EEG/EMG Foundation Challenge 2026*
 
