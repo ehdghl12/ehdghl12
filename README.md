@@ -32,15 +32,15 @@
 * `06.29 - 06.30` AI Agent Action Decision - 건양대학교 SW중심대학사업단
 * `07.01 - 07.15` 2026 SW중심대학 디지털경진대회 - 건양대학교 SW중심대학사업단
 * `07.20 - 07.22` X-ray 영상 AI 멀티라벨 분류 해커톤 - 건양대학교 RISE사업단
-* `09.01 - 12.31` 국방 AI 인재양성 사업(전 장병 맞춤형 온라인 AI 교육 - 연구 보조) - KAIST
+* `09.01 - 12.31` 국방 AI 인재양성 사업(전 장병 맞춤형 온라인 AI 교육 연구 보조) - KAIST
 * `09.18 - 09.19` AI 창업 캠프 - 건양대학교 SW중심대학사업단
 * `10.17 - 11.02` 2026 Discover the World - Kyushu Sangyo University, 건양대학교 SW중심대학사업단
+* `10.26 - 11.22` EEG/EMG Foundation Challenge 2026 Track 2: BCI Decoding, 상위?% - neural-interface
   
 ***
 
 ### 🎯Currently in progress
 * *2026 AI·SW중심대학 우수작품 경진대회, AI·SW중심대학협의회*
-* *EEG/EMG Foundation Challenge 2026*
 
 ***
 
