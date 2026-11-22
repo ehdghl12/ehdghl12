@@ -35,12 +35,13 @@
 * `09.01 - 12.31` 국방 AI 인재양성 사업(전 장병 맞춤형 온라인 AI 교육 연구 보조) - KAIST
 * `09.18 - 09.19` AI 창업 캠프 - 건양대학교 SW중심대학사업단
 * `10.17 - 11.02` 2026 Discover the World - Kyushu Sangyo University, 건양대학교 SW중심대학사업단
-* `10.26 - 11.22` EEG/EMG Foundation Challenge 2026 Track 2: BCI Decoding, 상위?% - neural-interface
+* `10.26 - 11.22` EEG/EMG Foundation Challenge 2026 Track 2: BCI Decoding, 상위15% - neural-interface
   
 ***
 
 ### 🎯Currently in progress
 * *2026 AI·SW중심대학 우수작품 경진대회, AI·SW중심대학협의회*
+* *학생설계 융합수업 DYC 프로젝트 경진대회, 건양대학교 휴머니티칼리지*
 
 ***
 
@@ -62,4 +63,4 @@
 
 <br />
 <br />
-last updated : Nov 2, 2026
+last updated : Nov 22, 2026
